@@ -1,8 +1,3 @@
-## Put comments here that give an overall description of what your
-## functions do
-
-## Write a short comment describing this function
-
 ## This file comes up with a pair of functions
 ## that cache the inverse of a matrix
 
@@ -26,8 +21,6 @@ makeCacheMatrix <- function(x = matrix()) {
              get_inverse = get_inverse)
 }
 
-
-## Write a short comment describing this function
 
 ## This function computes the inverse of the special "matrix" 
 ## returned by makeCacheMatrix above
